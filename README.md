@@ -1,2 +1,2 @@
 # CalenderCard
-Click Here: dynamic-calender-preview.netlify.app
+Click Here: https://dynamic-calender-preview.netlify.app/
